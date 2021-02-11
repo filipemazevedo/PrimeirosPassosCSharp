@@ -1,0 +1,12 @@
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.exe
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.deps.json
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.runtimeconfig.json
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.runtimeconfig.dev.json
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.dll
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\bin\Debug\netcoreapp3.1\ExercicioAluno.pdb
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.AssemblyInfo.cs
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.dll
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.pdb
+C:\Users\filip\source\repos\ExercicioAluno\ExercicioAluno\obj\Debug\netcoreapp3.1\ExercicioAluno.genruntimeconfig.cache
