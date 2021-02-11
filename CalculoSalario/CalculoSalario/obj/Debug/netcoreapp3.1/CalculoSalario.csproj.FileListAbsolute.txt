@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.exe
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.deps.json
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.runtimeconfig.json
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.runtimeconfig.dev.json
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.dll
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.pdb
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.AssemblyInfo.cs
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.dll
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.pdb
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.genruntimeconfig.cache
+C:\Users\filip\source\repos\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.csprojAssemblyReference.cache
